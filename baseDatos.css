@@ -1,0 +1,78 @@
+.fullAlto{
+    height: 100vh;
+}
+
+input {
+    width: 100%;
+    border-radius: 20px;
+    border-color: rgb(180, 167, 167);
+    justify-content: center;
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+.menulateral {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px
+}
+
+.menulateral button {
+    margin-bottom: 10px;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.table {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#contenido3 form {
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 50px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#contenido3 .contenido-centrado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align: center;
+}
+
+#contenido3 .formulario-agregar-alumno {
+    width: 300px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    margin-top: 20px;
+    display: grid;
+    text-align: center;
+}
+
+.border {
+    border: 1px solid #dee2e6
+}
